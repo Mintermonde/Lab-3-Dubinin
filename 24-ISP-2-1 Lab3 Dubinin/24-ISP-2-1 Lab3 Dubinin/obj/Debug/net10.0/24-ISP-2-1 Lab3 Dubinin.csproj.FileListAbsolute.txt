@@ -1,0 +1,14 @@
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\bin\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.exe
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\bin\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.deps.json
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\bin\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.runtimeconfig.json
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\bin\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.dll
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\bin\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.pdb
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.AssemblyInfoInputs.cache
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.AssemblyInfo.cs
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.csproj.CoreCompileInputs.cache
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.dll
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\refint\24-ISP-2-1 Lab3 Dubinin.dll
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.pdb
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\24-ISP-2-1 Lab3 Dubinin.genruntimeconfig.cache
+C:\Users\shmid\source\repos\24-ISP-2-1 Lab3 Dubinin\24-ISP-2-1 Lab3 Dubinin\obj\Debug\net10.0\ref\24-ISP-2-1 Lab3 Dubinin.dll
